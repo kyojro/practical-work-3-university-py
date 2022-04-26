@@ -1,7 +1,5 @@
 
 #17 variant(IN GLOBAL LIST).
---
-
 ---
 pw_3.py (variant 1 in task list).(25 variant chose curator).
 ---
