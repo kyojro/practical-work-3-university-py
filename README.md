@@ -19,5 +19,7 @@ pw_3.py (usd/pln/eur) (the current exchange rate of this currency)
 
 result in file:
 usd.md
+
 eur.md
+
 pln.md
