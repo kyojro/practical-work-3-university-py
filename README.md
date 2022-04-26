@@ -11,3 +11,13 @@ a list and should be initialized with the launch of the script.
 ---
 The application must be run using at least one argument. 
 The minimum number of functions in a class must be at least three.
+
+---
+startup example:
+
+pw_3.py (usd/pln/eur) (the current exchange rate of this currency)
+
+result in file:
+usd.md
+eur.md
+pln.md
